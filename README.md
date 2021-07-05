@@ -63,24 +63,24 @@ Ensure you have the following installed:
 
 Now in VS Code locate the Azure tool icon to the left, and sign in to Azure
 
-![](https://code.visualstudio.com/assets/tutorials/functions-extension/sign-in.png)
+![](https://code.visualstudio.com/assets/tutorials/functions-extension/sign-in.png?WT.mc_id=academic-0000-chnoring)
 
  Next click the blue arrow icon to deploy
 
-![](https://code.visualstudio.com/assets/tutorials/functions-extension/function-app-publish-project.png)
+![](https://code.visualstudio.com/assets/tutorials/functions-extension/function-app-publish-project.png?WT.mc_id=academic-0000-chnoring)
 
 From here follow the prompts. Choose the directory that you currently have open, select your Azure subscription, and then choose **Create New Function App**.
 
 1. Type a globally unique name for your Function App and press Enter. Valid characters for a function app name are 'a-z', '0-9', and '-'.
 2. Choose **Create New Resource Group**, type a Resource Group name, like 'myResourceGroup' and press Enter.
-3. Choose a location in a [region](https://azure.microsoft.com/en-us/regions/) near you or near other services you may need to access.
+3. Choose a location in a [region](https://azure.microsoft.com/regions/?WT.mc_id=academic-0000-chnoring) near you or near other services you may need to access.
 4. Choose **Create New Storage Account**, type a globally unique name of the new storage account used by your function app and press Enter. Storage account names must be between 3 and 24 characters in length and may contain numbers and lowercase letters only.
 
 
 
 It should look something like this when it's done deploying
 
-![](https://code.visualstudio.com/assets/tutorials/functions-extension/function-create-output.png)
+![](https://code.visualstudio.com/assets/tutorials/functions-extension/function-create-output.png?WT.mc_id=academic-0000-chnoring)
 
 # Deploy an Angular app
 
